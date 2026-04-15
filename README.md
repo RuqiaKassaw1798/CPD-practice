@@ -56,9 +56,9 @@ python3 solution.py < input.txt
 
 ```
 ### 📚 Resources
- * CP-Algorithms — Reference for algorithms and data structures.
- * CSES Problem Set — Structured practice for key techniques.
- * Codeforces — Primary problem-solving platform.
+ * [CP-Algorithms](https://cp-algorithms.com/) — Reference for algorithms and data structures.
+ * [CSES Problem Set](https://cses.fi/problemset/) — Structured practice for key techniques.
+ * [Codeforces](https://codeforces.com/⁠) — Primary problem-solving platform.
 ### 📈 Progress Philosophy
  * Focus on understanding patterns, not memorization.
  * Practice consistently rather than in bursts.
