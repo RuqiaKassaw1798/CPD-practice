@@ -26,9 +26,8 @@
 ## 📊 Progress Tracker
 | Platform | Problems Solved | Profile |
 |:---|:---:|:---|
-| Platform | Problems Solved | Profile |
-|:---|:---:|:---|
-| **Codeforces** | ![Codeforces](https://img.shields.io/badge/Solved-Check_Profile-blue?logo=codeforces) | [Ruqia48 →](https://codeforces.com/profile/Ruqia48) |
+| **Codeforces** | ![Codeforces Solved](https://codeforces-readme-stats.vercel.app/api/badge/solved?username=Ruqia48&v=2026)
+(https://codeforces.com/profile/Ruqia48) |
 | **LeetCode** | ![LeetCode](https://img.shields.io/badge/Status-Active-orange?logo=leetcode) | [Profile →](https://leetcode.com/YOUR_USERNAME) |
 | **HackerRank** | ![HackerRank](https://img.shields.io/badge/Status-Active-green?logo=hackerrank) | [Profile →](https://www.hackerrank.com/YOUR_USERNAME) |
 
