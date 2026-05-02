@@ -1,81 +1,115 @@
-# 🏆 Competitive Programming Practice
+<div align="center">
 
-This repository contains my solutions to competitive programming problems, primarily from **Codeforces**. It serves as a record of my progress, a space to refine problem-solving skills, and a way to improve implementation speed under contest conditions.
+# 🏆 Competitive Programming
+
+**A structured repository of problem-solving practice, progress tracking, and contest preparation.**
+
+[![Profile](https://img.shields.io/badge/Codeforces-Ruqia48-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ruqia48)
+[![Status](https://img.shields.io/badge/Status-Active-2ea44f?style=for-the-badge)](#)
+[![Goal](https://img.shields.io/badge/Goal-Specialist%201400+-8B5CF6?style=for-the-badge)](#)
+
+</div>
 
 ---
 
-### 🎯 Current Focus
-* **Platform:** Codeforces
-* **Difficulty:** ~800 Rated Problems (In Progress)
-* **Core Topics:** Implementation, Greedy, Basic Math
-* **Primary Goal:** Reach **Specialist (1400+)** through consistent practice and pattern recognition.
+## 🎯 Current Focus
+
+| Field | Details |
+|:---|:---|
+| **Platform** | Codeforces |
+| **Difficulty** | ~800–1000 Rated Problems |
+| **Core Topics** | Implementation · Greedy · Basic Math |
+| **Primary Goal** | Reach **Specialist (1400+)** |
 
 ---
 
-### 📁 Project Structure
+## 📊 Progress Tracker
+
+| Platform | Problems Solved | Profile |
+|:---|:---:|:---|
+| **Codeforces** | ![Problems Solved](https://codeforces-readme-stats.vercel.app/api/badge/solved?username=Ruqia48&style=flat) | [Ruqia48 →](https://codeforces.com/profile/Ruqia48) |
+| **LeetCode** | *(Planned)* | — |
+| **HackerRank** | *(Planned)* | — |
+
+<div align="center">
+
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Ruqia48&theme=github_dark&border_color=30363d)
+
+</div>
+
+---
+
+## 📁 Project Structure
 
 ```
-competitive-programming/
-├── Codeforces/
-│   ├── 800/
-│   └── 1000/
-├── LeetCode/          (Planned)
-├── HackerRank/        (Planned)
-├── Templates/
-└── Notes/
+📦 competitive-programming/
+│
+├── 📂 Codeforces/          ← Active
+│   ├── 800/                   problems rated ~800
+│   └── 1000/                  problems rated ~1000
+│
+├── 📂 LeetCode/            ← Planned (by topic)
+├── 📂 HackerRank/          ← Planned (foundational DS)
+├── 📂 Templates/           ← Reusable contest snippets
+└── 📂 Notes/               ← Personal observations & patterns
 ```
 
 ---
 
-### 📊 Progress Tracker
+## 🧠 Implementation Strategy
 
-| Platform | Problems Solved | Rating | Profile |
-| :--- | :---: | :---: | :--- |
-| **Codeforces** | ![Solved](https://codeforces-readme-stats.vercel.app/api/badge/solved?username=Ruqia48) | ![Rating](https://codeforces-readme-stats.vercel.app/api/badge/rating?username=Ruqia48) | [Ruqia48](https://codeforces.com/profile/Ruqia48) |
-| **LeetCode** | — | — | *Planned* |
-| **HackerRank** | — | — | *Planned* |
+Each solution follows this workflow before submission:
 
----
-
-### 📈 Codeforces Stats
-
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Ruqia48&theme=github_dark)
+```
+1. 📐 Complexity Analysis   →   estimate O(n), O(n log n), etc.
+2. 🔍 Edge Case Handling    →   empty input, extreme values, overflow
+3. ✅ Clean Implementation  →   readable, efficient, well-named
+```
 
 ---
 
-### 🧠 Implementation Strategy
-
-1. **Complexity Analysis** — Estimate time and space complexity before coding (e.g., ensuring an $O(n \log n)$ approach when required).
-2. **Edge Case Handling** — Consider cases like empty inputs, extreme values, and special constraints.
-3. **Clean Implementation** — After passing all test cases, refine the code for readability and efficiency.
-
----
-
-### ▶️ How to Run
+## ▶️ How to Run
 
 ```bash
 # Python
 python3 solution.py < input.txt
 
 # C++
-g++ -o solution solution.cpp && ./solution < input.txt
+g++ -O2 -o solution solution.cpp
+./solution < input.txt
+
+# Java
+javac Solution.java
+java Solution < input.txt
 ```
 
 ---
 
-### 📚 Resources
+## 📚 Resources
 
-* [CP-Algorithms](https://cp-algorithms.com/) — Reference for algorithms and data structures.
-* [CSES Problem Set](https://cses.fi/problemset/) — Structured practice for key techniques.
-* [Codeforces](https://codeforces.com/) — Primary problem-solving platform.
+| Resource | Purpose |
+|:---|:---|
+| [CP-Algorithms](https://cp-algorithms.com/) | Reference for algorithms & data structures |
+| [CSES Problem Set](https://cses.fi/problemset/) | Structured practice for key techniques |
+| [Codeforces](https://codeforces.com/) | Primary competitive programming platform |
+| [Codeforces EDU](https://codeforces.com/edu/courses) | Step-by-step algorithm courses |
 
 ---
 
-### 📈 Progress Philosophy
+## 📈 Progress Philosophy
 
-* Focus on understanding patterns, not memorization.
-* Practice consistently rather than in bursts.
-* Learn from editorials after attempting problems for 30–45 minutes.
-* Gradually increase problem difficulty as confidence grows.
+```
+✦  Understand patterns — don't memorize solutions
+✦  Practice consistently rather than in bursts
+✦  Attempt for 30–45 min before reading the editorial
+✦  Gradually increase difficulty as confidence grows
+✦  Review wrong submissions to find the exact mistake
+```
 
-> "Consistency beats intensity in competitive programming."
+<div align="center">
+
+---
+
+*"Consistency beats intensity in competitive programming."*
+
+</div>
