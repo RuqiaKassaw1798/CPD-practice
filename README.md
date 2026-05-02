@@ -24,12 +24,11 @@
 ---
 
 ## 📊 Progress Tracker
-
 | Platform | Problems Solved | Profile |
 |:---|:---:|:---|
-| **Codeforces** | ![Problems Solved](https://codeforces-readme-stats.vercel.app/api/badge/solved?username=Ruqia48&style=flat) | [Ruqia48 →](https://codeforces.com/profile/Ruqia48) |
-| **LeetCode** | *(Planned)* | — |
-| **HackerRank** | *(Planned)* | — |
+| **Codeforces** | ![Codeforces](https://codeforces-readme-stats.vercel.app/api/badge/solved?username=Ruqia48) | [Ruqia48 →](https://codeforces.com/profile/Ruqia48) |
+| **LeetCode** | ![LeetCode](https://leetcode-badge.vercel.app/api/users/YOUR_USERNAME/solved?name=Solved) | [Profile →](https://leetcode.com/YOUR_USERNAME) |
+| **HackerRank** | ![HackerRank](https://img.shields.io/badge/Status-Active-green?logo=hackerrank) | [Profile →](https://www.hackerrank.com/YOUR_USERNAME) |
 
 <div align="center">
 
@@ -77,10 +76,6 @@ python3 solution.py < input.txt
 # C++
 g++ -O2 -o solution solution.cpp
 ./solution < input.txt
-
-# Java
-javac Solution.java
-java Solution < input.txt
 ```
 
 ---
