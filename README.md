@@ -24,12 +24,12 @@
 ---
 
 ## 📊 Progress Tracker
+
 | Platform | Problems Solved | Profile |
 |:---|:---:|:---|
-| **Codeforces** | ![Codeforces Solved](https://codeforces-readme-stats.vercel.app/api/badge/solved?username=Ruqia48&v=2026)
-(https://codeforces.com/profile/Ruqia48) |
-| **LeetCode** | ![LeetCode](https://img.shields.io/badge/Status-Active-orange?logo=leetcode) | [Profile →](https://leetcode.com/YOUR_USERNAME) |
-| **HackerRank** | ![HackerRank](https://img.shields.io/badge/Status-Active-green?logo=hackerrank) | [Profile →](https://www.hackerrank.com/YOUR_USERNAME) |
+| **Codeforces** | ![Problems Solved](https://codeforces-readme-stats.vercel.app/api/badge/solved?username=Ruqia48&style=flat) | [Ruqia48 →](https://codeforces.com/profile/Ruqia48) |
+| **LeetCode** | *(Planned)* | — |
+| **HackerRank** | *(Planned)* | — |
 
 
 <div align="center">
