@@ -13,59 +13,69 @@ This repository contains my solutions to competitive programming problems, prima
 ---
 
 ### 📁 Project Structure
-Solutions are organized for clarity and scalability:
 
-* **`Codeforces/`** (Active)
-    * Problems grouped by difficulty (e.g., `800/`, `1000/`)
-* **`LeetCode/`** (Planned)
-    * Organized by topic (e.g., Dynamic Programming, Graphs)
-* **`HackerRank/`** (Planned)
-    * Focus on foundational data structures
-* **`Templates/`**
-    * Reusable snippets for faster implementation during contests
-* **`Notes/`**
-    * Personal explanations and observations for tricky problems
+```
+competitive-programming/
+├── Codeforces/
+│   ├── 800/
+│   └── 1000/
+├── LeetCode/          (Planned)
+├── HackerRank/        (Planned)
+├── Templates/
+└── Notes/
+```
 
 ---
 
 ### 📊 Progress Tracker
 
-| Platform | Problems Solved | Profile |
-| :--- | :--- | :--- |
-| **Codeforces** | - | [Ruqia48](https://codeforces.com/profile/Ruqia48) |
-| **LeetCode** | - | *Planned* |
-| **HackerRank** | - | *Planned* |
+| Platform | Problems Solved | Rating | Profile |
+| :--- | :---: | :---: | :--- |
+| **Codeforces** | ![Solved](https://codeforces-readme-stats.vercel.app/api/badge/solved?username=Ruqia48) | ![Rating](https://codeforces-readme-stats.vercel.app/api/badge/rating?username=Ruqia48) | [Ruqia48](https://codeforces.com/profile/Ruqia48) |
+| **LeetCode** | — | — | *Planned* |
+| **HackerRank** | — | — | *Planned* |
+
+---
+
+### 📈 Codeforces Stats
+
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Ruqia48&theme=github_dark)
 
 ---
 
 ### 🧠 Implementation Strategy
-Each solution generally follows this workflow:
 
-1.  **Complexity Analysis**: Estimate time and space complexity before coding (e.g., ensuring an $O(n \log n)$ approach when required).
-2.  **Edge Case Handling**: Consider cases like empty inputs, extreme values, and special constraints.
-3.  **Clean Implementation**: After passing all test cases, refine the code for readability and efficiency.
+1. **Complexity Analysis** — Estimate time and space complexity before coding (e.g., ensuring an $O(n \log n)$ approach when required).
+2. **Edge Case Handling** — Consider cases like empty inputs, extreme values, and special constraints.
+3. **Clean Implementation** — After passing all test cases, refine the code for readability and efficiency.
 
 ---
 
 ### ▶️ How to Run
-Run a solution locally using your preferred environment:
 
 ```bash
-# Example for Python
+# Python
 python3 solution.py < input.txt
 
-```
-### 📚 Resources
- * [CP-Algorithms](https://cp-algorithms.com/) — Reference for algorithms and data structures.
- * [CSES Problem Set](https://cses.fi/problemset/) — Structured practice for key techniques.
- * [Codeforces](https://codeforces.com/⁠) — Primary problem-solving platform.
-### 📈 Progress Philosophy
- * Focus on understanding patterns, not memorization.
- * Practice consistently rather than in bursts.
- * Learn from editorials after attempting problems for 30-45 minutes.
- * Gradually increase problem difficulty as confidence grows.
-> "Consistency beats intensity in competitive programming."
-> 
+# C++
+g++ -o solution solution.cpp && ./solution < input.txt
 ```
 
-```
+---
+
+### 📚 Resources
+
+* [CP-Algorithms](https://cp-algorithms.com/) — Reference for algorithms and data structures.
+* [CSES Problem Set](https://cses.fi/problemset/) — Structured practice for key techniques.
+* [Codeforces](https://codeforces.com/) — Primary problem-solving platform.
+
+---
+
+### 📈 Progress Philosophy
+
+* Focus on understanding patterns, not memorization.
+* Practice consistently rather than in bursts.
+* Learn from editorials after attempting problems for 30–45 minutes.
+* Gradually increase problem difficulty as confidence grows.
+
+> "Consistency beats intensity in competitive programming."
